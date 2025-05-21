@@ -1,0 +1,8 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+1,,145.120000,+,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,,,,,
+2,    Kensin,145.150000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,1.5W,,,,,
+4,"    Bow, B",145.170000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,1.5W,,,,,
+5,    Sanbor,145.180000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,1.5W,,,,,
+7,    Somers,145.180000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,1.5W,,,,,
+8,    Manche,145.220000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,1.5W,,,,,
+12,    Center,145.230000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,1.5W,,,,,

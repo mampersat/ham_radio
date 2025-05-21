@@ -1,0 +1,13 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+1,"Sargents Purchase, Mt. Washington",145.12,,,,,,,,,,,,,,,,,,
+2,Kensington,145.15,,,,,,,,,,,,,,,,,,
+4,"Bow, Brown Hill",145.17,,,,,,,,,,,,,,,,,,
+5,"Sanbornton, Lake Winnisquam",145.18,,,,,,,,,,,,,,,,,,
+7,Somersworth,145.18,,,,,,,,,,,,,,,,,,
+8,Manchester,145.22,,,,,,,,,,,,,,,,,,
+9,Center Ossipee,145.23,,,,,,,,,,,,,,,,,,
+10,Hudson,145.26,,,,,,,,,,,,,,,,,,
+11,Wakefield,145.28,,,,,,,,,,,,,,,,,,
+12,Derry,145.31,,,,,,,,,,,,,,,,,,
+13,Moultonborough,145.31,,,,,,,,,,,,,,,,,,
+14,"Salem, HRO",145.32,,,,,,,,,,,,,,,,,,
